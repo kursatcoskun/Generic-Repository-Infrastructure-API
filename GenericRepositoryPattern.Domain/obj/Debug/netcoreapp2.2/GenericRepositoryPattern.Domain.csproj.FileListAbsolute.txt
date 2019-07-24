@@ -1,0 +1,9 @@
+C:\Users\kursa\Desktop\GenericRepositoryPattern\GenericRepositoryPattern.Domain\bin\Debug\netcoreapp2.2\GenericRepositoryPattern.Domain.deps.json
+C:\Users\kursa\Desktop\GenericRepositoryPattern\GenericRepositoryPattern.Domain\bin\Debug\netcoreapp2.2\GenericRepositoryPattern.Domain.dll
+C:\Users\kursa\Desktop\GenericRepositoryPattern\GenericRepositoryPattern.Domain\bin\Debug\netcoreapp2.2\GenericRepositoryPattern.Domain.pdb
+C:\Users\kursa\Desktop\GenericRepositoryPattern\GenericRepositoryPattern.Domain\obj\Debug\netcoreapp2.2\GenericRepositoryPattern.Domain.csprojAssemblyReference.cache
+C:\Users\kursa\Desktop\GenericRepositoryPattern\GenericRepositoryPattern.Domain\obj\Debug\netcoreapp2.2\GenericRepositoryPattern.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kursa\Desktop\GenericRepositoryPattern\GenericRepositoryPattern.Domain\obj\Debug\netcoreapp2.2\GenericRepositoryPattern.Domain.AssemblyInfoInputs.cache
+C:\Users\kursa\Desktop\GenericRepositoryPattern\GenericRepositoryPattern.Domain\obj\Debug\netcoreapp2.2\GenericRepositoryPattern.Domain.AssemblyInfo.cs
+C:\Users\kursa\Desktop\GenericRepositoryPattern\GenericRepositoryPattern.Domain\obj\Debug\netcoreapp2.2\GenericRepositoryPattern.Domain.dll
+C:\Users\kursa\Desktop\GenericRepositoryPattern\GenericRepositoryPattern.Domain\obj\Debug\netcoreapp2.2\GenericRepositoryPattern.Domain.pdb

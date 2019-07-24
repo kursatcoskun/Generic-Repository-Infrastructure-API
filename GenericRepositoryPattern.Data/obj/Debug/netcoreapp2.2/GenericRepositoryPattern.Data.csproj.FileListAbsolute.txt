@@ -1,0 +1,16 @@
+C:\Users\kursa\source\repos\GenericRepositoryPattern\GenericRepositoryPattern.Data\bin\Debug\netcoreapp2.2\GenericRepositoryPattern.Domain.dll
+C:\Users\kursa\source\repos\GenericRepositoryPattern\GenericRepositoryPattern.Data\obj\Debug\netcoreapp2.2\GenericRepositoryPattern.Data.csproj.CoreCompileInputs.cache
+C:\Users\kursa\source\repos\GenericRepositoryPattern\GenericRepositoryPattern.Data\obj\Debug\netcoreapp2.2\GenericRepositoryPattern.Data.AssemblyInfoInputs.cache
+C:\Users\kursa\source\repos\GenericRepositoryPattern\GenericRepositoryPattern.Data\obj\Debug\netcoreapp2.2\GenericRepositoryPattern.Data.AssemblyInfo.cs
+C:\Users\kursa\Desktop\GenericRepositoryPattern\GenericRepositoryPattern.Data\bin\Debug\netcoreapp2.2\GenericRepositoryPattern.Data.deps.json
+C:\Users\kursa\Desktop\GenericRepositoryPattern\GenericRepositoryPattern.Data\bin\Debug\netcoreapp2.2\GenericRepositoryPattern.Data.dll
+C:\Users\kursa\Desktop\GenericRepositoryPattern\GenericRepositoryPattern.Data\bin\Debug\netcoreapp2.2\GenericRepositoryPattern.Data.pdb
+C:\Users\kursa\Desktop\GenericRepositoryPattern\GenericRepositoryPattern.Data\bin\Debug\netcoreapp2.2\GenericRepositoryPattern.Domain.dll
+C:\Users\kursa\Desktop\GenericRepositoryPattern\GenericRepositoryPattern.Data\bin\Debug\netcoreapp2.2\GenericRepositoryPattern.Domain.pdb
+C:\Users\kursa\Desktop\GenericRepositoryPattern\GenericRepositoryPattern.Data\obj\Debug\netcoreapp2.2\GenericRepositoryPattern.Data.csprojAssemblyReference.cache
+C:\Users\kursa\Desktop\GenericRepositoryPattern\GenericRepositoryPattern.Data\obj\Debug\netcoreapp2.2\GenericRepositoryPattern.Data.csproj.CoreCompileInputs.cache
+C:\Users\kursa\Desktop\GenericRepositoryPattern\GenericRepositoryPattern.Data\obj\Debug\netcoreapp2.2\GenericRepositoryPattern.Data.AssemblyInfoInputs.cache
+C:\Users\kursa\Desktop\GenericRepositoryPattern\GenericRepositoryPattern.Data\obj\Debug\netcoreapp2.2\GenericRepositoryPattern.Data.AssemblyInfo.cs
+C:\Users\kursa\Desktop\GenericRepositoryPattern\GenericRepositoryPattern.Data\obj\Debug\netcoreapp2.2\GenericRepositoryPattern.Data.csproj.CopyComplete
+C:\Users\kursa\Desktop\GenericRepositoryPattern\GenericRepositoryPattern.Data\obj\Debug\netcoreapp2.2\GenericRepositoryPattern.Data.dll
+C:\Users\kursa\Desktop\GenericRepositoryPattern\GenericRepositoryPattern.Data\obj\Debug\netcoreapp2.2\GenericRepositoryPattern.Data.pdb
